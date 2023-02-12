@@ -17,7 +17,8 @@ Diferentemente de cancelamentos que são realizados diretamente com o estabeleci
 A empresa pediu explicações sobre o processo de pagamento, sobre o atendimento ao cliente, e forneceu uma base de dados fictícios para que fosse desenvolvida análise e extração de insights sobre comportamentos duvidosos ou fraudulentos.
 
 A análise dos dados, bem como as demais explicações solicitadas estão disponíveis na apresentação que pode ser acessada pelo link:
-https://docs.google.com/presentation/d/1eodwSlbx3nlFjnyj43o2Ah2pXQ7JWir9/edit?usp=sharing&ouid=114483131248161276183&rtpof=true&sd=true
+
+https://docs.google.com/presentation/d/1GhNMphZnC1GmvX184m6PviQAeP2Vbmb3/edit?usp=sharing&ouid=114483131248161276183&rtpof=true&sd=true
 
 # File
 📋 📁 
