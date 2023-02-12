@@ -1,5 +1,5 @@
 
-# Chargeback Analyst - Case 🪙 💰 💳
+# Chargeback Analyst - Case 
 
 Case desenvolvido durante processo seletivo de empresa da industria de pagamentos.
 
