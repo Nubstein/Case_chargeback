@@ -18,7 +18,7 @@ A empresa pediu explicações sobre o processo de pagamento, sobre o atendimento
 
 A análise dos dados, bem como as demais explicações solicitadas estão disponíveis na apresentação que pode ser acessada pelo link:
 
-https://docs.google.com/presentation/d/1GhNMphZnC1GmvX184m6PviQAeP2Vbmb3/edit?usp=sharing&ouid=114483131248161276183&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1DOksrRn_DgcK5jBfbY7r6U-CbrhtaQMM/edit?usp=sharing&ouid=114483131248161276183&rtpof=true&sd=true
 
 # File
 📋 📁 
