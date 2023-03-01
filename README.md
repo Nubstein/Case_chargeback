@@ -1,7 +1,7 @@
 
 # Chargeback Analyst - Case 
 
-Case desenvolvido durante processo seletivo de empresa da industria de pagamentos.
+Case desenvolvido durante processo seletivo de empresa da indústria de pagamentos.
 
 # Contextualização
 🪙 💰 💳
